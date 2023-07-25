@@ -59,4 +59,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs.
 <!-- cobrinha -->
-- 
+- ![Snake animation](https://github.com/joseook/joseook/blop/output/github-contribution-grid-snake.svg)
