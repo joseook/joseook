@@ -14,7 +14,7 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 ![](https://komarev.com/ghpvc/?username=joseook&style=flat)
 
 <!-- Working GIF -->
-
+<img src = "C:\Users\2°E\Downloads\obj-code.png"
 
 
 ### 💼  Things that I'm currently working on: 
