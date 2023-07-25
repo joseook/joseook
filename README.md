@@ -14,7 +14,7 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 ![](https://komarev.com/ghpvc/?username=joseook&style=flat)
 
 <!-- Working GIF -->
-<img src = "C:\Users\2°E\Downloads\obj-code.png"
+
 
 
 ### 💼  Things that I'm currently working on: 
@@ -59,4 +59,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs.
 <!-- cobrinha -->
-- ![Snake animation](https://github.com/joseook/joseook/dist/output/github-contribution-grid-snake.svg)
+- ![Snake animation](https://github.com/joseook/joseook/blop/output/github-contribution-grid-snake.svg)
