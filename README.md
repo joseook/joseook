@@ -14,9 +14,9 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 ![](https://komarev.com/ghpvc/?username=joseook&style=flat)
 
 <!-- Working GIF -->
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/seal-sappy-seals-BaDsH4FpMBnqdK8J0g">via GIPHY</a></p>
-
+<div
+<iframe src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/seal-sappy-seals-BaDsH4FpMBnqdK8J0g">via GIPHY</a></p>
+</div>
 ### 💼  Things that I'm currently working on: 
 * Learning Typescript:computer: Development
 * Learning some frameworks:
