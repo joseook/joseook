@@ -27,7 +27,7 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 
 
 ### 💼  Things that I'm currently working on: 
-* Learning Typescript:computer: Development
+* Learning Typescript and C# :computer: Development
 * Learning some frameworks:
 Angular,
 Vue.js.
