@@ -13,6 +13,17 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joseook&style=flat)
 
+
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/joseook?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joseook's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
+
+
+
+
 <!-- Working GIF -->
 
 ![giphy](https://github.com/joseook/joseook/assets/126371426/b3743271-e7f2-4934-b169-5b99645caffb)
@@ -36,12 +47,7 @@ Vue.js.
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/joseook?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joseook's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
+
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
