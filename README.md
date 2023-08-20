@@ -21,9 +21,6 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
    <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
 
-
-
-
 <!-- Working GIF -->
 
 ![giphy](https://github.com/joseook/joseook/assets/126371426/b3743271-e7f2-4934-b169-5b99645caffb)
