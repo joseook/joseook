@@ -15,12 +15,15 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 
 
 <p> <!-- GitHub README Stats -->
+<div align="center">   
   <a href="https://github.com/joseook?tab=repositories">
     <img width="500" height="auto" align="auto" alt="Joseook's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
+  </div>
 
+    
 <!-- Working GIF -->
 
 ![giphy](https://github.com/joseook/joseook/assets/126371426/b3743271-e7f2-4934-b169-5b99645caffb)
