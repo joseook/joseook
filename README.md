@@ -17,16 +17,20 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 <p> <!-- GitHub README Stats -->
 <div align="center">   
   <a href="https://github.com/joseook?tab=repositories">
-    <img width="500" height="auto" align="auto" alt="Joseook's github stats" 
+    <img width="500" height="auto" align="center" alt="Joseook's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
   </div>
 
-    
+<br>
 <!-- Working GIF -->
+<br><br><br>
+<div align = "left">
+
 
 ![giphy](https://github.com/joseook/joseook/assets/126371426/b3743271-e7f2-4934-b169-5b99645caffb)
+</div>
 
 
 
@@ -36,15 +40,22 @@ I am a **FullStack developer**💻, looking to solve the most varied problems by
 
 <br>
 
+<div align = "left">
 
+
+  
 ### 💼  Things that I'm currently working on: 
 * Learning Typescript and C# :computer: Development
 * Learning some frameworks:
 Angular,
 Vue.js.
+</div>
 
+<br>
 
+<div align = "left">
 
+  
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
@@ -62,6 +73,7 @@ Vue.js.
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 
+</div>
 <br>
 
   
@@ -70,7 +82,11 @@ Vue.js.
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 <!-- Credit -->
+<div align = "left">
+
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs.
 <!-- cobrinha -->
 - ![Snake animation](https://github.com/joseook/joseook/blop/output/github-contribution-grid-snake.svg)
+
+</div>
