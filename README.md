@@ -1,103 +1,75 @@
-<!-- Greeting -->
-# Hey! :wave::smiley:
-
-<!--Introduction -->
-I'm Joseok! <br>
-I am a **FullStack developer**💻, looking to solve the most varied problems by **the world of the internet**🗺️.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<!-- Your badges -->
-[![Gmail](https://img.shields.io/badge/-joseok.business-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joseok.business@gmail.com)
-
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joseook&style=flat)
 
 
-<p> <!-- GitHub README Stats -->
-<div align="center">   
-  <a href="https://github.com/joseook?tab=repositories">
-    <img width="500" height="auto" align="center" alt="Joseook's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joseook's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&layout=compact" />
-  </div>
+<h1 align="center">Hi 👋, I'm Joseok</h1>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-<br>
-<!-- Working GIF -->
-<br><br><br>
-<div align = "left">
+<div align = "center">
 
-
-![giphy](https://github.com/joseook/joseook/assets/126371426/b3743271-e7f2-4934-b169-5b99645caffb)
-</div>
-
-
-
-
-
-
-
-<br>
-
-<div align = "left">
-
-
-  
-### 💼  Things that I'm currently working on: 
-* Learning Typescript and C# :computer: Development
-* Learning some frameworks:
-Angular,
-Vue.js.
-</div>
-
-<br>
-
-<div align = "left">
-
-
-
-  
- ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-
-  </a>
- <!-- icons -->
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<br>
-
-
-
-
-
-### and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.figma.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a></code>
+![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/joseook/joseook/assets/126371426/42f3f7ed-eb3f-4ec1-ab3c-e43194491cfd)
 
 </div>
-<br>
 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseook&label=Profile%20views&color=0e75b6&style=flat" alt="joseook" /> </p>
+
+- 🔭 I’m currently working on **Websites**
+
+- 🌱 I’m currently learning **React, Typescript, C# and SQL**
+
+- 💬 Ask me about **Nodejs, Javascript, Python, Electron, HTML5 and CSS3**
+
+- 📫 How to reach me **joseok.business@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/joseook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joseook" height="30" width="40" /></a>
+<a href="https://twitter.com/joseokjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseokjs" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/joseok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joseok" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/joseook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joseook" height="30" width="40" /></a>
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
+### Languages:
 <div align = "left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs.
-<!-- cobrinha -->
-- ![Snake animation](https://github.com/joseook/joseook/blop/output/github-contribution-grid-snake.svg)
 
+
+</div>
+
+### and Tools :
+
+<div align = "left">
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+</p>
+
+</div>
+
+### Other operating systems :
+
+<div align= "left" >
+  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> </a>
+  
+</div>
+
+
+<div align = "center">
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joseook&show_icons=true&locale=en&layout=compact" alt="joseook" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&locale=en" alt="joseook" /></p>
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=joseook&" alt="joseook" /></p>
 </div>
