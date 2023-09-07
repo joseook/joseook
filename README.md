@@ -52,6 +52,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*O6KluMvEBZ1cBL3EPo4tig.png&tbnid=rGZ4HAxvXEmFXM&vet=12ahUKEwjuiObU3JiBAxVGq5UCHdeCCkwQMygBegQIARBV..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ward92%2Felectron-js-69dbad843ad1&docid=1Za_bvPI2eJB0M&w=1200&h=1200&q=electronjs&client=opera-gx&ved=2ahUKEwjuiObU3JiBAxVGq5UCHdeCCkwQMygBegQIARBV">
+</a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
