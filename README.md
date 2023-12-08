@@ -43,7 +43,7 @@
 ## About Me 🚀
 I am a web developer with a passion for creating beautiful and functional websites. With a keen interest in **React, Typescript, C#, and SQL**, I am always on the lookout for new challenges and opportunities to grow.
 
-- 🔭 Currently, I'm crafting web experiences at **[Your Company or Project]**
+- 🔭 I'm currently working with **Websites**
 - 🌱 Expanding my expertise in **Advanced React Techniques and Backend Development**
 - 💼 Eager to contribute to **frontend and backend projects**
 - 💬 Let's talk about **Web Development, Tech Trends, and Programming**
