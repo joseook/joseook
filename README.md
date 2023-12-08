@@ -75,6 +75,16 @@ Connect with Me 📫
   </a>
 </p>
 
+## Achievements 🏆
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseook&theme=onedark" />
+</p>
+
+## Contribution Graph 📊
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=joseook&theme=xcode" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joseook&label=Profile+Views&color=yellow&style=flat-square" alt="Profile views" />
 </p>
