@@ -2,37 +2,41 @@
 <h3 align="center">Devoted Developer from Brazil</h3>
 
 ## GitHub Statistics 📈
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-  <div>
-    <h4 align="center">GitHub Stats</h4>
-    <a href="https://github.com/joseook">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    </a>
-  </div>
-  <div>
-    <h4 align="center">Streak Stats</h4>
-    <a href="https://github.com/joseookE">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joseook&theme=highcontrast"/>
-    </a>
-  </div>
-  <div>
-    <h4 align="center">Most Used Languages</h4>
-    <a href="https://github.com/joseook">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&theme=highcontrast&layout=compact" />
-    </a>
-  </div>
-  <div>
-    <h4 align="center">GitHub Profile Summary</h4>
-    <a href="https://github.com/joseook">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=highcontrast" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">GitHub Stats</h4>
+      <a href="https://github.com/joseook">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">Streak Stats</h4>
+      <a href="https://github.com/joseook">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseook&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">Most Used Languages</h4>
+      <a href="https://github.com/joseook">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&theme=dark&layout=compact" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">GitHub Profile Summary</h4>
+      <a href="https://github.com/joseook">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Spotify Playing 🎧
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=joseook&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color_cover=false"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=joseook&cover_image=true&theme=novatorem&bar_color_cover=false"/>
   </a>
 </p>
 
