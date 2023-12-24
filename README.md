@@ -62,7 +62,16 @@ I am a web developer with a passion for creating beautiful and functional websit
   
 </div>
 
-Connect with Me 📫
+## Extra-Skills + 
+<div align="center">
+  <!-- Icons -->
+  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+- Connect with Me 📫
 <p align="center">
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-yellow?style=flat-square&logo=instagram&logoColor=black" alt="YOUR_INSTAGRAM_USERNAME"/>
