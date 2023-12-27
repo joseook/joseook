@@ -59,7 +59,8 @@ I am a web developer with a passion for creating beautiful and functional websit
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
 </div>
 
 ## Extra-Skills + 
@@ -71,8 +72,10 @@ I am a web developer with a passion for creating beautiful and functional websit
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+
+
 - Connect with Me 📫
-<p align="center">
+<p align="center >
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-yellow?style=flat-square&logo=instagram&logoColor=black" alt="YOUR_INSTAGRAM_USERNAME"/>
   </a>
