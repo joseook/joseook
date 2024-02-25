@@ -33,13 +33,6 @@
   </tr>
 </table>
 
-## Spotify Playing 🎧
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=joseook&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=joseook&cover_image=true&theme=novatorem&bar_color_cover=false"/>
-  </a>
-</p>
-
 ## About Me 🚀
 I am a web developer with a passion for creating beautiful and functional websites. With a keen interest in **React, Typescript, C#, and SQL**, I am always on the lookout for new challenges and opportunities to grow.
 
@@ -97,10 +90,6 @@ I am a web developer with a passion for creating beautiful and functional websit
   <img src="https://github-profile-trophy.vercel.app/?username=joseook&theme=onedark" />
 </p>
 
-## Contribution Graph 📊
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=joseook&theme=xcode" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joseook&label=Profile+Views&color=yellow&style=flat-square" alt="Profile views" />
