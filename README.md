@@ -27,7 +27,7 @@
     <td valign="top" width="50%">
       <h4 align="center">GitHub Profile Summary</h4>
       <a href="https://github.com/joseook">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
       </a>
     </td>
   </tr>
