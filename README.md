@@ -21,7 +21,7 @@
     <td valign="top" width="50%">
       <h4 align="center">Most Used Languages</h4>
       <a href="https://github.com/joseook">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswvas&theme=dark&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&theme=dark&layout=compact" />
       </a>
     </td>
     <td valign="top" width="50%">
