@@ -40,7 +40,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 - 🌱 Expanding my expertise in **Advanced React Techniques and Backend Development**
 - 💼 Eager to contribute to **frontend and backend projects**
 - 💬 Let's talk about **Web Development, Tech Trends, and Programming**
-- 📫 Reach me at: **joseok.business@gmail.com**
+- 📫 Reach me at: **info@joseok.xyz*
 
 ## Skills 🛠
 <div align="center">
