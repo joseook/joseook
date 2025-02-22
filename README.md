@@ -17,14 +17,10 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">Most Used Languages</h4>
-      <a href="https://github.com/joseook">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseook&theme=dark&layout=compact" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
+</table>
+<table>
+    <tr>
+    <td valign="top" width="1050px">
       <h4 align="center">GitHub Profile Summary</h4>
       <a href="https://github.com/joseook">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
