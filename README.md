@@ -12,28 +12,15 @@ I just kindly ask for one thing:
 Please, leave a star on my README, it will make my day :)
 -->
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="1000px" height="500px" alt="Cat typing" />
-</p>
+![Shy Cat](assets/shy.gif)
 
-</br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" align="left">
-
-<div align="justify">
+![](assets/iconcat_3.jpg)
 
 ### Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=FFD700&background=FFF9E600&width=500&height=30&lines=Olá+visitante!+Me+chamo+José+👋;Sou+desenvolvedor+FullStack;Me+arrisco+no+design+🎨;Adoro+programar+e+criar+soluções+tech+⭐)](https://git.io/typing-svg)
+[Typing SVG](https://git.io/typing-svg)
 
-Sou um **Desenvolvedor Fullstack** em formação e **Instrutor no SENAI**. Apaixonado por tecnologia, design e ideias fora da caixa! Estou cursando **Sistemas de Informação** na CESMAC. Estar atuando como instrutor me proporciona uma visão das necessidades dos alunos e me ajuda a criar conteúdos e aplicações que realmente fazem sentido!
-
-Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `PostgreSQL`, `MongoDB`, `Python`, `C#` e `Go`. Atualmente estou aprendendo mais sobre **Design Systems** e **Automações**! Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
-
-</div>
-
-</br>
+Sou um **Desenvolvedor Fullstack** em formação e **Instrutor no SENAI**. Apaixonado por tecnologia, design e ideias fora da caixa! Estou cursando **Sistemas de Informação** na CESMAC. Estar atuando como instrutor me proporciona uma visão das necessidades dos alunos e regras de negócio, me ajudando a criar aplicações que realmente fazem sentido! Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `PostgreSQL`, `MongoDB`, `Python`, `C#` e `Go`. Atualmente estou aprendendo mais sobre **Design Systems** e **Automações**! Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
 ---
 
@@ -64,9 +51,7 @@ Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `Ja
 <img src="https://img.shields.io/badge/Datadog-FFD700?style=for-the-badge&logo=datadog&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-FFD700?style=for-the-badge&logo=trello&logoColor=white" />
 
-<img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="320" align="right">
-
----
+![](assets/iconcat_1.jpg)
 
 ### Um pouco mais sobre mim!
 
@@ -78,9 +63,9 @@ Sou apaixonado por `Tech`, `Design`, `Anime` e `Gatos`!
 
 [![](https://img.shields.io/badge/LinkedIn-FFD700?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joseook) [![](https://img.shields.io/badge/E--mail-FFD700?logo=gmail&logoColor=white&style=for-the-badge)](mailto:joseook.dev@gmail.com)
 
-</br>
+pacman contribution graph
 
----
+![](assets/hearts.jpg)
 
 ### Estatísticas
 
@@ -89,12 +74,6 @@ Sou apaixonado por `Tech`, `Design`, `Anime` e `Gatos`!
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=midnight_yellow) | ![](https://streak-stats.demolab.com?user=joseook&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3) |
 | :-: | :-: |
 
----
+![GIF gandalf](https://media.giphy.com/media/v1.Y2lkPTExODQyMGI5NjExN2Q0aTlhMGI2MWI2c3NmMzVkZzc3MjJhMDExNTQyZThkZXY3OCYjcHQ9bXV0dWFsJmM9Z2lm&ct=g)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="280" alt="gandalf celebration" />
-</p>
-
-Obrigado por visitar meu perfil! 💛
-
-Deixe uma estrela no meu README, irá deixar meu dia mais feliz :) ⭐
+Obrigado por visitar meu perfil! 💜
