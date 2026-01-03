@@ -1,92 +1,109 @@
-<h1 align="center">Hi there, I'm Joseok 👋</h1>
-<h3 align="center">Devoted Developer from Brazil</h3>
+<!-- HEADER COM GIF -->
+<h1 align="center">Olá, eu sou José 👋</h1>
+<p align="center">
+  <strong>Desenvolvedor Fullstack • Apaixonado por Web, UX/UI e Educação</strong>
+</p>
 
-## GitHub Statistics 📈
+<!-- GIF ANIMADO PRINCIPAL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Gato program" />
+</p>
+
+---
+
+## ✨ Sobre mim
+
+- 💻 Desenvolvedor **Fullstack** em formação | Instrutor **SENAI**
+- 🎓 Estudando **Sistemas de Informação** na CESMAC
+- 🎨 Apaixonado por **UX/UI**, design e experiências bem pensadas
+- 🚀 Sempre buscando novos desafios e oportunidades
+- 🎮 Nas horas vagas: games, anime e novas tecnologias
+
+---
+
+## 📊 GitHub Statistics
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">GitHub Stats</h4>
+    <td align="center" width="50%">
+      <h4>GitHub Stats</h4>
       <a href="https://github.com/joseook">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=joseook&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
       </a>
     </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Streak Stats</h4>
+    <td align="center" width="50%">
+      <h4>Streak Stats</h4>
       <a href="https://github.com/joseook">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseook&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-    <tr>
-    <td valign="top" width="1050px">
-      <h4 align="center">GitHub Profile Summary</h4>
-      <a href="https://github.com/joseook">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseook&theme=dark" />
       </a>
     </td>
   </tr>
 </table>
 
-## About Me 🚀
-I am a web developer with a passion for creating beautiful and functional websites. With a keen interest in **React, Typescript, C#, and SQL**, I am always on the lookout for new challenges and opportunities to grow.
+---
 
-- 🔭 I'm currently working with **Websites**
-- 🌱 Expanding my expertise in **Advanced React Techniques and Backend Development**
-- 💼 Eager to contribute to **frontend and backend projects**
-- 💬 Let's talk about **Web Development, Tech Trends, and Programming**
-- 📫 Reach me at: **info@joseok.xyz**
+## 🙋 Tech Stack
 
-## Skills 🛠
-<div align="center">
-  <!-- Icons -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  />
-</div>
-
-## Extra-Skills + 
-<div align="center">
-  <!-- Icons -->
-  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-
-
-- Connect with Me 📫
-<p align="center >
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-yellow?style=flat-square&logo=instagram&logoColor=black" alt="YOUR_INSTAGRAM_USERNAME"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-yellow?style=flat-square&logo=linkedin&logoColor=black" alt="YOUR_LINKEDIN_USERNAME"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-yellow?style=flat-square&logo=twitter&logoColor=black" alt="YOUR_TWITTER_USERNAME"/>
-  </a>
-</p>
-  
-
-
-
-## Achievements 🏆
+### 📚 Linguagens
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseook&theme=onedark" />
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </p>
 
+### 🎨 Frontend
+<p align="center">
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+</p>
+
+### 🐧 Backend & BD
+<p align="center">
+  <img alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</p>
+
+### 🛠 Ferramentas
+<p align="center">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</p>
+
+---
+
+## 😻 Vibes Dev
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseook&label=Profile+Views&color=yellow&style=flat-square" alt="Profile views" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Developer coding" />
+  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="280" alt="Cat vibing" />
+</p>
+
+---
+
+## 💫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseook" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:info@joseok.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/joseook" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseook&color=blueviolet" alt="Profile views" />
 </p>
