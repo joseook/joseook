@@ -15,7 +15,7 @@
 </p>
 </br>
 
-<img src="https://media.giphy.com/media/L1R1tv9I9svkIW3V2r/giphy.gif" width=320 align="left">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2d3B4ejU5ZmpnenljcXc3dHFzcXVlaDljaTJ5b2lzc2c4YTFyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hCiQVo1dzVwPu/giphy.gif" width=320 align="left" style="margin-right: 50px;">
 
 <div align="justify">
 
@@ -43,48 +43,29 @@ Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscan
 ### Tecnologias que uso
 
 <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Vite-FFD700?style=for-the-badge&logo=vite&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-FFD700?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=white" />
-</br>
 <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Express-FFD700?style=for-the-badge&logo=express&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Prisma-FFD700?style=for-the-badge&logo=prisma&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/CSharp-FFD700?style=for-the-badge&logo=csharp&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Go-FFD700?style=for-the-badge&logo=go&logoColor=white" />
 <br>
 
 #### Tools
 
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
 <br>
 
