@@ -18,13 +18,12 @@
 
 > *"The best way to learn is by teaching — and the best way to build is by understanding people."*
 
-I'm a **Fullstack Developer** and **Instructor at SENAI**, currently pursuing a degree in **Information Systems** at CESMAC (Maceió, Brazil).
+I'm a **Fullstack Developer**, currently pursuing a degree in **Information Systems** at CESMAC (Maceió, Brazil).
 
 My experience in the classroom sharpened my ability to understand real user needs and business rules — which directly shapes how I approach software development.
 
 I work across the full stack with a strong interest in **UX/UI**, **Design Systems**, and **Automation**.
 
-- 🏫 Instructor at **SENAI**
 - 🎓 Studying **Information Systems** @ CESMAC
 - 🌱 Currently exploring **Design Systems** & **Workflow Automation**
 - ⭐ Passionate about **Tech**, **Design** and **Anime**
