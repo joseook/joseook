@@ -158,7 +158,7 @@ I work across the full stack with a strong interest in **UX/UI**, **Design Syste
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/joseook)
-[![Gmail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:joseook.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:hello@joseok.cloud)
 
 </div>
 
